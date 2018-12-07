@@ -83,6 +83,8 @@ The position with respect to center can be calculated by evaluating the fitted f
 ### 1)Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)
 
 This video is in main directory named `project_video_output.mp4`
+
+https://youtu.be/xLF-YRNAYC8
 ## Discussion
 
 My thinking on this project is similar to project 1.  It's a fascinating challenge that taught me quite a bit more about CV techniques.
